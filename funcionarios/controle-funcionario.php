@@ -55,4 +55,4 @@ $dao->inserirLogin($login);
 
 }
 
-header("location:Funcionario.php");
+header("location:../LoginSenha.php");
