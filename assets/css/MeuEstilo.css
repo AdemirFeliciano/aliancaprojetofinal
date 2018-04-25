@@ -1,0 +1,80 @@
+
+
+#conteiner{
+    width: 1800px;
+    height: 1000px;
+    margin: auto;
+    position: relative;
+   
+}
+#topo{
+    width: 100%;
+    height: 25%;
+    margin: 0;
+    padding: 0;
+    background-color:#808080;
+    text-align:center;
+    border-style: groove;
+
+}
+#menuesquerdo{
+    margin-top: 1%;
+    background-color: #808080;
+    width: 30%;
+    height: 60%;
+    border-style: groove;
+    border-width: 5px;
+    position: absolute;
+    text-align: center;
+}
+#menudireito{
+
+
+    margin-top: 1%;
+    right: 0px;
+    border-width: 5px;
+
+    width: 68%;
+    height: 60%;
+    position: absolute;
+    border-style: groove;
+    border-width: 5px;
+
+}
+#tbData{
+    width: 30%;
+    height: 100%;
+    position: absolute;
+}
+#tabHora{
+    right: 0px;
+    width: 70%;
+    height: 60%;
+    position: absolute;
+}
+#menu{
+    width: 100%;
+    height: 24%;
+    clear:both;
+    background-color:black;
+}
+a:hover {
+    color:black;
+}
+a{
+    color: white;
+}
+
+#loginsenha{
+    position: absolute;
+    margin-top: 20%;
+    width: 450px;
+    height: 200px;
+    left: 35%;
+    right: 35%;
+     
+}            
+
+table, th, td{
+    
+}
